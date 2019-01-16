@@ -1,4 +1,4 @@
-FROM node:carbon
+FROM node:11
 
 #Create app directory
 RUN mkdir -p /usr/src/app
