@@ -1,0 +1,17 @@
+.navbar-flex {
+  display: flex;
+}
+
+.input-group-prepend .button-go {
+  border-left: none;
+  position: relative;
+  right: 5px;
+  cursor: pointer;
+}
+
+.input-group-prepend .button-go {
+  border-left: none;
+  position: relative;
+  right: 5px;
+  cursor: pointer;
+}

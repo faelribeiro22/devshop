@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test card component renderer 1`] = `
+<div
+  className="col-md-4"
+>
+  <div
+    className="card mb-4 shadow-sm"
+  >
+    <img
+      alt="Avatar"
+      className="card-img-top card-photo"
+    />
+    <div
+      className="card-body"
+    >
+      <label />
+    </div>
+  </div>
+</div>
+`;

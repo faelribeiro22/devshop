@@ -1,0 +1,57 @@
+{
+  "page": 1,
+  "limit": 10,
+  "qtd": 10,
+  "data": [
+    {
+      "id": 1,
+      "profileName": "faelribeiro22",
+      "profileAvatar": "https://avatars1.githubusercontent.com/u/10289821?v=4"
+    },
+    {
+      "id": 2,
+      "profileName": "faelribeiro22",
+      "profileAvatar": "https://avatars1.githubusercontent.com/u/10289821?v=4"
+    },
+    {
+      "id": 3,
+      "profileName": "faelribeiro22",
+      "profileAvatar": "https://avatars1.githubusercontent.com/u/10289821?v=4"
+    },
+    {
+      "id": 4,
+      "profileName": "faelribeiro22",
+      "profileAvatar": "https://avatars1.githubusercontent.com/u/10289821?v=4"
+    },
+    {
+      "id": 5,
+      "profileName": "faelribeiro22",
+      "profileAvatar": "https://avatars1.githubusercontent.com/u/10289821?v=4"
+    },
+    {
+      "id": 6,
+      "profileName": "faelribeiro22",
+      "profileAvatar": "https://avatars1.githubusercontent.com/u/10289821?v=4"
+    },
+    {
+      "id": 7,
+      "profileName": "faelribeiro22",
+      "profileAvatar": "https://avatars1.githubusercontent.com/u/10289821?v=4"
+    },
+    {
+      "id": 8,
+      "profileName": "faelribeiro22",
+      "profileAvatar": "https://avatars1.githubusercontent.com/u/10289821?v=4"
+    },
+    {
+      "id": 9,
+      "profileName": "faelribeiro22",
+      "profileAvatar": "https://avatars1.githubusercontent.com/u/10289821?v=4"
+    },
+    {
+      "id": 10,
+      "profileName": "faelribeiro22",
+      "profileAvatar": "https://avatars1.githubusercontent.com/u/10289821?v=4"
+    }
+  ]
+}

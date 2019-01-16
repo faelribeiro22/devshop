@@ -1,4 +1,4 @@
-FROM node:latest
+FROM rafaelribeiro92/deveshop-react-app:latest
 
 #Create app directory
 RUN mkdir -p /usr/src/app
