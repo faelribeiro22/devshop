@@ -1,11 +1,15 @@
-version: '3'
+version: '3.5'
 
 services:
-  frontend:
+
+  dev_shop_view:
+    container_name: dev_shop_view
     build: .
-    expose:
-      - 3000
-    ports:
-      - 3000:3000
     volumes:
-      - .:/usr/src/app
+      - '.:/usr/src/app'
+      - '/usr/src/app/node_modules'
+    ports:
+      - '3000:3000'
+    environment:
+      - NODE_ENV=development
+      - CHOKIDAR_USEPOLLING=true
